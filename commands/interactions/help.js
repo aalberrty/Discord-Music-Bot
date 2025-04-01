@@ -19,7 +19,7 @@ module.exports = {
         const helpEmbed = new Discord.EmbedBuilder()
             .setColor(config.MainColor)
             .setTitle("❓ Help")
-            .setFooter({ text: "Developed by iTz Arshia#7650 https://github.com/iTzArshia/Discord-Music-Bot" });
+            .setFooter({ text: "Developed by zzackkie" });
 
         if (
             args[0] &&
